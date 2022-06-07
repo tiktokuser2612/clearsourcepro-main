@@ -1,0 +1,23 @@
+.zipcode-input {
+  input.ant-input {
+    margin-bottom: 0;
+  }
+
+  .ant-input-group-addon {
+    border: 1px;
+    position: absolute!important;
+    left: inherit!important;
+    width: 30px!important;
+    right: 0!important;
+    background: transparent!important;
+    z-index: 1!important;
+    padding-top: 10px !important;
+  }
+  .ant-btn {
+    border:0px solid transparent !important;
+    border-right-width: 1px !important;
+  }
+  .ant-btn-icon-only {
+    width: 28px !important;
+  }
+}

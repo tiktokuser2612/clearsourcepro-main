@@ -1,0 +1,10 @@
+.requisitions_list{
+    margin: 30px 0 0 0;
+}
+.requisitions_list .edit_icon i {
+    margin: 0 10px 0 0;
+}
+.my_coustomer_table{
+    overflow: hidden !important;
+    max-height:560px !important;
+}

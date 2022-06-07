@@ -1,0 +1,267 @@
+.permission_area{
+    margin: 30px 0 0 0;
+}
+
+.permission_area h5{
+    font-size: 18px;
+    font-weight: 700;
+    color: #000;
+    margin: 0 0 15px 0;
+}
+
+.p_menu_itms{
+    margin: 0;
+    padding: 10px 20px;
+    background-color: #e9ecef;
+    border: 1px solid #dedede;
+}
+
+.p_menu_itms h6{
+    font-size: 14px;
+    font-weight: 700;
+    color: #333;
+    margin: 0 0 5px 0;  
+}
+
+.p_menu_itms ul{
+    margin: 0;
+    padding: 0;
+}
+
+.p_menu_itms ul li{
+    list-style: none;
+    font-size: 14px;
+    font-weight: 400;
+    color: #848484;
+    padding: 12px 10px;
+    border: 1px solid transparent;
+    border-radius: 5px;
+}
+
+.p_menu_itms ul li:hover{
+    border: 1px solid #3061c2;
+    color: #3061c2;
+}
+
+.p_menu_itms ul li.active{
+    border: 1px solid #3061c2;
+    color: #3061c2;
+}
+
+.p_menu_itms ul li i{
+    opacity: 0;
+}
+
+.p_menu_itms ul li:hover i{
+    opacity: 9;
+}
+
+.p_menu_itms ul li.active i{
+    opacity: 9;
+}
+
+.p_candidate_accor{
+    margin: 0 20px;
+    padding: 10px 20px;
+}
+
+.p_candidate_accor h6{
+    font-size: 14px;
+    font-weight: 700;
+    color: #333;
+    margin: 0 0 5px 0;  
+}
+
+.p_candidate_accor ul{
+    margin: 0;
+    padding: 0;
+}
+
+.p_candidate_accor ul li{
+    list-style: none;
+    font-size: 14px;
+    font-weight: 400;
+    color: #848484;
+    padding:  0;
+    display: flex;
+    align-items: center;
+}
+
+.p_candidate_accor ul li a,samp{
+    width: 230px;
+    display: inline-block;
+    color: #848484;
+    margin: 20px 20px 0 0;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    padding: 10px 15px;
+}
+
+.p_candidate_accor ul li a,samp{
+    border: 1px solid #3061c2;
+    color: #3061c2;
+}
+
+.p_candidate_accor ul li a:hover{
+    border: 1px solid #3061c2;
+    color: #3061c2;
+}
+
+.p_candidate_accor ul li a.active{
+    border: 1px solid #3061c2;
+    color: #3061c2;
+}
+
+.p_candidate_accor ul li a i{
+    opacity: 0;
+}
+
+.p_candidate_accor ul li a:hover i{
+    opacity: 9;
+}
+
+.p_candidate_accor ul li a.active i{
+    opacity: 9;
+}
+
+.p_candidate_accor{
+    margin:0;
+}
+
+.p_candidate_accor label{
+    font-size: 13px;
+    font-weight: 700;
+    color: #848484;
+    margin: 5px 0 0 0;
+}
+
+.p_candidate_accor span{
+    background-color: #cdcece;
+    border-radius: 5px;
+    padding: 5px 15px;
+    display: inline-block;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 400;
+    margin: 0 10px 0 0;
+}
+
+.p_candidate_accor .bvc span{
+    background-color: #3061c2;
+}
+
+.p_candidate_accor ul li .p_select_btn span:hover{
+    background-color: #28a745;
+}
+
+.p_candidate_accor ul li .p_select_btn span.active{
+    background-color: #28a745;
+}
+
+.checkdisable{
+    background-color: #cdcece!important;
+}
+
+
+
+
+
+// new
+.p_candidate_accor2{
+    margin: 0 20px;
+    padding: 10px 20px;
+}
+
+.p_candidate_accor2{
+    margin: 0 20px;
+    padding: 10px 1px;
+}
+
+.p_candidate_accor2 h6{
+    font-size: 14px;
+    font-weight: 700;
+    color: #333;
+    margin: 0 0 5px 0;  
+}
+
+.p_candidate_accor2 ul{
+    margin: 0;
+    padding: 0;
+}
+
+.p_candidate_accor2 ul li{
+    list-style: none;
+    font-size: 14px;
+    font-weight: 400;
+    color: #848484;
+    padding:  0;
+    display: flex;
+    align-items: center;
+}
+
+.p_candidate_accor2 ul li a{
+    width: 230px;
+    display: inline-block;
+    color: #848484;
+    margin: 20px 20px 0 0;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    padding: 10px 15px;
+}
+
+.p_candidate_accor2 ul li a:hover{
+    border: 1px solid #3061c2;
+    color: #3061c2;
+}
+
+.p_candidate_accor2 ul li a.active{
+    border: 1px solid #3061c2;
+    color: #3061c2;
+}
+
+.p_candidate_accor2 ul li a i{
+    opacity: 0;
+}
+
+.p_candidate_accor2 ul li a:hover i{
+    opacity: 9;
+}
+
+.p_candidate_accor2 ul li a.active i{
+    opacity: 9;
+}
+
+.p_candidate_accor2{
+    margin:0 0 0 3px;
+}
+
+.p_candidate_accor2 label{
+    font-size: 13px;
+    font-weight: 700;
+    color: #848484;
+    margin: 1px 26px 0 0;
+}
+
+.p_candidate_accor2 span{
+    background-color: #cdcece;
+    border-radius: 5px;
+    padding: 1px 9px;
+    display: inline-block;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 400;
+    margin: 0 10px 0 0;
+    cursor: pointer;
+}
+
+.p_candidate_accor2 .bvc span{
+    background-color: #4166b0;
+}
+
+.p_candidate_accor2 ul li .p_select_btn span:hover{
+    background-color: #4166b0;
+}
+
+.p_candidate_accor2 ul li .p_select_btn span.active{
+    background-color: #4166b0;
+}
